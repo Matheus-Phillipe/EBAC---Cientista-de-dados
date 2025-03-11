@@ -6,4 +6,8 @@ Nesse repositório, estarão presentes desde exercícios simples até exercício
 
 * Todos os exercicios realizados no curso com meus insights.
 * A trajetoria que realizei desde o primeiro módulo ate o último.
-* Guia para novos estudantes que estão passando por dúvidas.
+* Guia para novos estudantes que estão passando por dúvidas ao longo do curso.
+
+Caso queira fazer networking, abaixo estará minha pagina no Linkedin.
+
+## Linkedin | https://www.linkedin.com/in/matheus-pcf/
